@@ -7,6 +7,7 @@ public class Welcoming {
 //	this is trilok
 		System.out.println("I am Shekhar");
 //ertuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+		///////mmmmmmmmmmmmm
 	}
 
 }
